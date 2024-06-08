@@ -1,0 +1,12 @@
+
+h1{
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+p {text-align: center;}

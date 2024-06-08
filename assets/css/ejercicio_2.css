@@ -1,0 +1,29 @@
+
+
+h1, h2, p { text-align: center;
+
+}
+
+.stickers {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img {
+    
+    width: 175px;
+    height: 160px;
+}
+
+input {
+    display: flex;
+    justify-content: space-around;
+    width: 170px;
+}
+
+.button-center {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
